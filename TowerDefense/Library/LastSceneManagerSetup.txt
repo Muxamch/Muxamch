@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/Vadim/MyScene.unity
-  isLoaded: 1
-  isActive: 1
